@@ -67,15 +67,6 @@ O projeto nasceu de uma necessidade real: organizar as despesas dos moradores, r
 * 🏗️ Engenharia de Software
 
 ---
-
-## 📊 GitHub Stats
-
-![Nathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=nathanmotadev\&show_icons=true\&theme=tokyonight\&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nathanmotadev\&layout=compact\&theme=tokyonight\&hide_border=true)
-
----
-
 ## 🎯 Objetivos
 
 * 🚀 Conseguir minha primeira oportunidade de estágio em desenvolvimento
