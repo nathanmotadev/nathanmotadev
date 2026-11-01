@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="647" viewBox="0 0 900 647" role="img" aria-label="Nathan Mota em arte ASCII com uma câmera">
+<style>
+text{font-family:"SFMono-Regular",Consolas,"Liberation Mono",Menlo,monospace;font-size:11px;white-space:pre}
+.n{fill:#e6edf3} .p{fill:#79c0ff} .t{fill:#8b949e;font-size:12px} .g{fill:#7ee787;font-size:12px} .w{fill:#e6edf3;font-size:14px} .o{fill:#ffa657;font-size:13px}
+</style>
+<rect width="900" height="647" rx="14" fill="#0d1117"/>
+<text x="40" y="40.0" class="n" xml:space="preserve">███╗   ██╗ █████╗ ████████╗██╗  ██╗ █████╗ ███╗   ██╗</text>
+<text x="40" y="53.0" class="n" xml:space="preserve">████╗  ██║██╔══██╗╚══██╔══╝██║  ██║██╔══██╗████╗  ██║</text>
+<text x="40" y="66.0" class="n" xml:space="preserve">██╔██╗ ██║███████║   ██║   ███████║███████║██╔██╗ ██║</text>
+<text x="40" y="78.9" class="n" xml:space="preserve">██║╚██╗██║██╔══██║   ██║   ██╔══██║██╔══██║██║╚██╗██║</text>
+<text x="40" y="91.9" class="n" xml:space="preserve">██║ ╚████║██║  ██║   ██║   ██║  ██║██║  ██║██║ ╚████║</text>
+<text x="40" y="104.9" class="n" xml:space="preserve">╚═╝  ╚═══╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝</text>
+<text x="40" y="123.9" class="n" xml:space="preserve">███╗   ███╗ ██████╗ ████████╗ █████╗</text>
+<text x="40" y="136.9" class="n" xml:space="preserve">████╗ ████║██╔═══██╗╚══██╔══╝██╔══██╗</text>
+<text x="40" y="149.8" class="n" xml:space="preserve">██╔████╔██║██║   ██║   ██║   ███████║</text>
+<text x="40" y="162.8" class="n" xml:space="preserve">██║╚██╔╝██║██║   ██║   ██║   ██╔══██║</text>
+<text x="40" y="175.8" class="n" xml:space="preserve">██║ ╚═╝ ██║╚██████╔╝   ██║   ██║  ██║</text>
+<text x="40" y="188.8" class="n" xml:space="preserve">╚═╝     ╚═╝ ╚═════╝    ╚═╝   ╚═╝  ╚═╝</text>
+<rect x="40" y="225.76" width="520" height="392" rx="10" fill="#161b22" stroke="#30363d"/>
+<circle cx="62" cy="245.76" r="6" fill="#ff5f56"/><circle cx="82" cy="245.76" r="6" fill="#ffbd2e"/><circle cx="102" cy="245.76" r="6" fill="#27c93f"/>
+<text x="62" y="273.76" class="g">nathanmotadev@github<tspan class="t">:~$ ./camera.sh</tspan></text>
+<text x="112.80000000000001" y="289.8" class="p" xml:space="preserve"></text>
+<text x="112.80000000000001" y="302.7" class="p" xml:space="preserve">                  ::::::::::::.</text>
+<text x="112.80000000000001" y="315.7" class="p" xml:space="preserve">                 :************-</text>
+<text x="112.80000000000001" y="328.7" class="p" xml:space="preserve">                 :*++++++++++*-</text>
+<text x="112.80000000000001" y="341.7" class="p" xml:space="preserve">       ..........-*++++++++++*-..........................</text>
+<text x="112.80000000000001" y="354.7" class="p" xml:space="preserve">    :=++++++++++++++++++++++++++++++++++++++++++++++++++++=:</text>
+<text x="112.80000000000001" y="367.6" class="p" xml:space="preserve">   -**+++++++++++++++++++++++*******++++++++++++********++**-</text>
+<text x="112.80000000000001" y="380.6" class="p" xml:space="preserve">   =*++++++++++++++++++++*++=------=++**+++++++*@@@@@@@@*++++</text>
+<text x="112.80000000000001" y="393.6" class="p" xml:space="preserve">   =*+++++++++++++++++*+=:.:-=++++=-:.:=+*+++++*%@@@@@@@*++++</text>
+<text x="112.80000000000001" y="406.6" class="p" xml:space="preserve">   =*++++++++++++++++*=..=#@@@@@@@@@@%+:.-+++++++++++++++++++</text>
+<text x="112.80000000000001" y="419.6" class="p" xml:space="preserve">   =*++++++++++++++++: +@@@@%#*++*#%@@@@*..+*++++++++++++++++</text>
+<text x="112.80000000000001" y="432.5" class="p" xml:space="preserve">   =*+++++++++++++++..%@@@#==++-::::=#@@@%..+++++++++++++++++</text>
+<text x="112.80000000000001" y="445.5" class="p" xml:space="preserve">   =*+++++++++++++*- #@@@*:*@@@@#:::::+@@@% :*+++++++++++++++</text>
+<text x="112.80000000000001" y="458.5" class="p" xml:space="preserve">   =*++++++++++++++..@@@%::*@@@@#::::::#@@@- ++++++++++++++++</text>
+<text x="112.80000000000001" y="471.5" class="p" xml:space="preserve">   =*++++++++++++++..@@@%:::=+*=:::::::#@@@- ++++++++++++++++</text>
+<text x="112.80000000000001" y="484.5" class="p" xml:space="preserve">   =*+++++++++++++*- #@@@*::::::::::::+@@@% :*+++++++++++++++</text>
+<text x="112.80000000000001" y="497.4" class="p" xml:space="preserve">   =*+++++++++++++++..%@@@#-::::::::-*@@@@: +++++++++++++++++</text>
+<text x="112.80000000000001" y="510.4" class="p" xml:space="preserve">   =*++++++++++++++++..*@@@@%*++++*%@@@@#..+*++++++++++++++++</text>
+<text x="112.80000000000001" y="523.4" class="p" xml:space="preserve">   =*+++++++++++++++++-.:+%@@@@@@@@@@%*:.-+++++++++++++++++++</text>
+<text x="112.80000000000001" y="536.4" class="p" xml:space="preserve">   =*+++++++++++++++++*+=:.:-++***+-:.:-+*+++++++++++++++++++</text>
+<text x="112.80000000000001" y="549.4" class="p" xml:space="preserve">   -*+++++++++++++++++++**+==--:::--=+**+++++++++++++++++++*=</text>
+<text x="112.80000000000001" y="562.3" class="p" xml:space="preserve">    -+****************************************************+=</text>
+<text x="112.80000000000001" y="575.3" class="p" xml:space="preserve">      .:::::::::::::::::::::::::::::::::::::::::::::::::::.</text>
+<text x="112.80000000000001" y="588.3" class="p" xml:space="preserve"></text>
+<text x="600" y="255.76" class="w">Dev em formação</text>
+<text x="600" y="279.76" class="t">ADS · FATEC São Paulo</text>
+<text x="600" y="321.76" class="o">$ stack</text>
+<text x="600" y="343.76" class="n" style="font-size:13px">Java · Spring Boot</text>
+<text x="600" y="363.76" class="n" style="font-size:13px">PostgreSQL · Docker</text>
+<text x="600" y="383.76" class="n" style="font-size:13px">Claude Code · Git</text>
+<text x="600" y="425.76" class="o">$ hobbies</text>
+<text x="600" y="447.76" class="n" style="font-size:13px">fotografia · leitura</text>
+<text x="600" y="467.76" class="n" style="font-size:13px">musculação</text>
+<text x="600" y="509.76" class="o">$ objetivo</text>
+<text x="600" y="531.76" class="n" style="font-size:13px">1º estágio em</text>
+<text x="600" y="551.76" class="n" style="font-size:13px">desenvolvimento de software</text>
+</svg>
