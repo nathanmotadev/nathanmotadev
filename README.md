@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner-ascii.svg" alt="Nathan Mota em arte ASCII" width="100%">
+  <img src="./banner-ascii_1.svg" alt="Nathan Mota em arte ASCII" width="100%">
 </p>
 
 # 👋 Olá, eu sou Nathan Mota
