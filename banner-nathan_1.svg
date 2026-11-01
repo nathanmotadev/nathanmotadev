@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="374" viewBox="0 0 900 374" role="img" aria-label="Nathan Mota, dev em formação, em arte ASCII">
+<style>
+text{font-family:"SFMono-Regular",Consolas,"Liberation Mono",Menlo,monospace;font-size:11px;white-space:pre}
+.n{fill:#e6edf3} .t{fill:#8b949e;font-size:12px} .g{fill:#7ee787;font-size:12px} .o{fill:#ffa657;font-size:13px} .w{fill:#e6edf3;font-size:13px}
+.run{animation:go 6s linear infinite}
+.pa{animation:pa .5s steps(1) infinite} .pb{animation:pb .5s steps(1) infinite}
+@keyframes go{from{transform:translateX(50px)} to{transform:translateX(840px)}}
+@keyframes pa{0%{opacity:1} 50%{opacity:0}}
+@keyframes pb{0%{opacity:0} 50%{opacity:1}}
+</style>
+<rect width="900" height="374" rx="14" fill="#0d1117"/>
+<text x="40" y="70.0" class="n" xml:space="preserve">███╗   ██╗ █████╗ ████████╗██╗  ██╗ █████╗ ███╗   ██╗</text>
+<text x="40" y="83.0" class="n" xml:space="preserve">████╗  ██║██╔══██╗╚══██╔══╝██║  ██║██╔══██╗████╗  ██║</text>
+<text x="40" y="96.0" class="n" xml:space="preserve">██╔██╗ ██║███████║   ██║   ███████║███████║██╔██╗ ██║</text>
+<text x="40" y="108.9" class="n" xml:space="preserve">██║╚██╗██║██╔══██║   ██║   ██╔══██║██╔══██║██║╚██╗██║</text>
+<text x="40" y="121.9" class="n" xml:space="preserve">██║ ╚████║██║  ██║   ██║   ██║  ██║██║  ██║██║ ╚████║</text>
+<text x="40" y="134.9" class="n" xml:space="preserve">╚═╝  ╚═══╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝</text>
+<text x="40" y="151.9" class="n" xml:space="preserve">███╗   ███╗ ██████╗ ████████╗ █████╗</text>
+<text x="40" y="164.9" class="n" xml:space="preserve">████╗ ████║██╔═══██╗╚══██╔══╝██╔══██╗</text>
+<text x="40" y="177.8" class="n" xml:space="preserve">██╔████╔██║██║   ██║   ██║   ███████║</text>
+<text x="40" y="190.8" class="n" xml:space="preserve">██║╚██╔╝██║██║   ██║   ██║   ██╔══██║</text>
+<text x="40" y="203.8" class="n" xml:space="preserve">██║ ╚═╝ ██║╚██████╔╝   ██║   ██║  ██║</text>
+<text x="40" y="216.8" class="n" xml:space="preserve">╚═╝     ╚═╝ ╚═════╝    ╚═╝   ╚═╝  ╚═╝</text>
+<rect x="470" y="34" width="390" height="242" rx="10" fill="#161b22" stroke="#30363d"/>
+<circle cx="492" cy="54" r="6" fill="#ff5f56"/><circle cx="512" cy="54" r="6" fill="#ffbd2e"/><circle cx="532" cy="54" r="6" fill="#27c93f"/>
+<text x="492" y="86" class="g">nathanmotadev@github<tspan class="t">:~$ cat sobre.txt</tspan></text>
+<text x="492" y="112" class="w">Dev em formação</text>
+<text x="492" y="132" class="t">ADS · FATEC São Paulo</text>
+<text x="492" y="162" class="o">stack</text>
+<text x="492" y="182" class="w">Java · Spring Boot · PostgreSQL</text>
+<text x="492" y="202" class="w">Docker · Git · Claude Code</text>
+<text x="492" y="232" class="o">objetivo</text>
+<text x="492" y="252" class="w">1º estágio em desenvolvimento</text>
+
+<line x1="40" y1="344" x2="860" y2="344" stroke="#30363d" stroke-width="2" stroke-dasharray="6 8"/>
+<g transform="translate(0,344)"><g class="run">
+ <g class="pa" stroke="#7ee787" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none">
+  <circle cx="0" cy="-36" r="5" fill="#7ee787"/><path d="M0 -29 L-3 -13"/>
+  <path d="M-1 -26 L9 -21"/><path d="M-1 -26 L-10 -18"/>
+  <path d="M-3 -13 L7 -7 L5 0"/><path d="M-3 -13 L-11 -6 L-16 -10"/>
+ </g>
+ <g class="pb" stroke="#7ee787" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none">
+  <circle cx="0" cy="-36" r="5" fill="#7ee787"/><path d="M0 -29 L-3 -13"/>
+  <path d="M-1 -26 L-9 -21"/><path d="M-1 -26 L8 -18"/>
+  <path d="M-3 -13 L-9 -6 L-12 0"/><path d="M-3 -13 L5 -9 L14 -7"/>
+ </g>
+</g></g>
+
+</svg>
